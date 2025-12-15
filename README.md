@@ -99,9 +99,9 @@ O projeto foi desenvolvido seguindo as etapas clássicas de um pipeline de Data 
 ```bash
 git clone https://github.com/Wesley-Alexsander/FIAP_Tech_Challenge_01.git
 ```
-2. Execute os exemplos:
+2. Confira os exemplos:
 ```bash
-cd  /FIAP_Tech_Challenge_01/Notebooks/exp_exploration.ipynb
+cd  /FIAP_Tech_Challenge_01/Notebooks/
 ```
 3. Execute a Pipeline:
 ```bash
