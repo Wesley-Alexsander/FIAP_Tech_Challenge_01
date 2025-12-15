@@ -4,7 +4,7 @@
 [![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)]()
 
-Este repositório contém o desenvolvimento do **Tech Challenge 01** do curso de **Data Science da FIAP**, cujo objetivo é aplicar, na prática, os fundamentos de **tratamento de dados, análise exploratória e construção de storytelling**, utilizando dados reais da base **Embrapa – VitiBrasil**.
+Este repositório contém o desenvolvimento do **Tech Challenge 01** da Pós-Tech de **Data Science da FIAP**, cujo objetivo é aplicar, na prática, os fundamentos de **tratamento de dados, análise exploratória e construção de storytelling**, utilizando dados reais da base **Embrapa – VitiBrasil**.
 
 <p align="center">
   <img src="./Assets/img/vitibrasil.png" alt="Capa da página Embrapa VitiBrasil" width="800"/>
